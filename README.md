@@ -1,1 +1,2 @@
-# Yandex.Praktikum-Data-analyst-course-
+# Yandex.Praktikum (Data analyst course)
+Данный репозиторий содержит примеры моих проектов, выполненных в рамках учебного курса "Аналитик данных" Яндекс.Практикум
